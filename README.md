@@ -19,5 +19,10 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0001-two-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
