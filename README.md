@@ -13,3 +13,11 @@ Unique collection of DSA solutions &amp; problem-solving journey
 
 ## Contact
 Swathi Karuppaiya — thesde.swathi1215@gmail.com
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+<!---LeetCode Topics End-->
