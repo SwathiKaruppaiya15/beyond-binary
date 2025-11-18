@@ -30,6 +30,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [0001-two-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -52,10 +53,12 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [0007-reverse-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0011-container-with-most-water) |
+| [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
