@@ -26,6 +26,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0717-1-bit-and-2-bit-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +78,9 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
