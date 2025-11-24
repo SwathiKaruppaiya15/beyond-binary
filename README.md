@@ -26,6 +26,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0046-permutations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0046-permutations) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -106,4 +107,8 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0046-permutations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
