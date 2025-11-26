@@ -32,6 +32,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -103,10 +104,12 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
