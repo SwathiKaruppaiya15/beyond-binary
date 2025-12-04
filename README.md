@@ -59,6 +59,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0014-longest-common-prefix) |
@@ -94,6 +95,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 ## Greedy
@@ -130,6 +132,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0005-longest-palindromic-substring) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Backtracking
