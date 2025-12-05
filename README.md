@@ -35,6 +35,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2141-maximum-running-time-of-n-computers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -55,6 +56,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1015-smallest-integer-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1590-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -107,6 +109,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0011-container-with-most-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
+| [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
 ## Greedy
 |  |
 | ------- |
@@ -188,4 +191,8 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0010-regular-expression-matching) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
