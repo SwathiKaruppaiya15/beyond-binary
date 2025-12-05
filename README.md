@@ -23,6 +23,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0004-median-of-two-sorted-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0047-permutations-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -104,6 +105,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 ## Greedy
 |  |
@@ -120,6 +122,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0047-permutations-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
