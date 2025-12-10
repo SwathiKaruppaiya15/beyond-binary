@@ -34,6 +34,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0204-count-primes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0204-count-primes) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
 | [0517-super-washing-machines](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0517-super-washing-machines) |
+| [0704-binary-search](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -105,6 +106,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0704-binary-search) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Divide and Conquer
