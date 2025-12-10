@@ -30,6 +30,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0041-first-missing-positive](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0047-permutations-ii) |
+| [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0204-count-primes) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
 | [0517-super-washing-machines](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0517-super-washing-machines) |
@@ -117,6 +118,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0009-palindrome-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0204-count-primes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -138,6 +140,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0016-3sum-closest](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
 ## Greedy
