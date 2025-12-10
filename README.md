@@ -120,6 +120,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0009-palindrome-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0204-count-primes) |
@@ -187,6 +188,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0070-climbing-stairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -262,4 +264,8 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
