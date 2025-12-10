@@ -26,6 +26,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0015-3sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0047-permutations-ii) |
@@ -136,6 +137,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0015-3sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
 ## Greedy
