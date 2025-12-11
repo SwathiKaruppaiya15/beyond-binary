@@ -56,6 +56,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3583-count-special-triplets) |
@@ -80,6 +81,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -172,6 +174,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2141-maximum-running-time-of-n-computers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3531-count-covered-buildings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3531-count-covered-buildings) |
 ## Simulation
 |  |
 | ------- |
