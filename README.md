@@ -100,6 +100,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0013-roman-to-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
@@ -133,6 +134,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1015-smallest-integer-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -201,6 +203,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0010-regular-expression-matching](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0070-climbing-stairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Backtracking
