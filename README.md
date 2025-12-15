@@ -44,6 +44,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1590-make-sum-divisible-by-p](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1590-make-sum-divisible-by-p) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1995-count-special-quadruplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1995-count-special-quadruplets) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -134,6 +135,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1015-smallest-integer-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -203,6 +205,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0010-regular-expression-matching](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0070-climbing-stairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
