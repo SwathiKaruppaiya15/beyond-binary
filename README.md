@@ -67,6 +67,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3606-coupon-code-validator](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0003-longest-substring-without-repeating-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Tree
 |  |
 | ------- |
