@@ -184,6 +184,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0047-permutations-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0047-permutations-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -242,6 +243,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Depth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Queue
@@ -294,4 +296,16 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
