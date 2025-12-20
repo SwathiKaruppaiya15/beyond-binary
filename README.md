@@ -37,6 +37,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0704-binary-search](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
+| [0944-delete-columns-to-make-sorted](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1534-count-good-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1534-count-good-triplets) |
@@ -104,6 +105,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0013-roman-to-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0944-delete-columns-to-make-sorted](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0944-delete-columns-to-make-sorted) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3606-coupon-code-validator) |
