@@ -28,6 +28,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0018-4sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0075-sort-colors) |
@@ -171,6 +172,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0016-3sum-closest](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
@@ -226,6 +228,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0070-climbing-stairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -278,6 +281,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
 |  |
@@ -327,4 +331,8 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
