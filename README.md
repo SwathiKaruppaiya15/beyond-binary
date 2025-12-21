@@ -49,6 +49,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1534-count-good-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1534-count-good-triplets) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1590-make-sum-divisible-by-p) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1995-count-special-quadruplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1995-count-special-quadruplets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -89,6 +90,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0904-fruit-into-baskets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1590-make-sum-divisible-by-p) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1995-count-special-quadruplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1995-count-special-quadruplets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
@@ -178,6 +180,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0283-move-zeroes) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
 ## Greedy
 |  |
@@ -204,6 +207,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0075-sort-colors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0075-sort-colors) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
