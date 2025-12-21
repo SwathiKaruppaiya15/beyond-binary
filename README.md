@@ -37,6 +37,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0704-binary-search](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
+| [0904-fruit-into-baskets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0904-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1004-max-consecutive-ones-iii) |
@@ -82,6 +83,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0041-first-missing-positive](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
+| [0904-fruit-into-baskets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1590-make-sum-divisible-by-p) |
 | [1995-count-special-quadruplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1995-count-special-quadruplets) |
@@ -116,6 +118,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1004-max-consecutive-ones-iii) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
