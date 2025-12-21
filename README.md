@@ -38,6 +38,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0717-1-bit-and-2-bit-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1534-count-good-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1534-count-good-triplets) |
@@ -106,6 +107,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0014-longest-common-prefix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3606-coupon-code-validator) |
@@ -169,6 +171,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0011-container-with-most-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0011-container-with-most-water) |
 | [0517-super-washing-machines](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0517-super-washing-machines) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
