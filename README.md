@@ -34,6 +34,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0075-sort-colors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0303-range-sum-query-immutable) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
@@ -257,6 +258,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1004-max-consecutive-ones-iii) |
