@@ -58,6 +58,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1995-count-special-quadruplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1995-count-special-quadruplets) |
+| [2054-two-best-non-overlapping-events](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -142,6 +143,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0004-median-of-two-sorted-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1004-max-consecutive-ones-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Divide and Conquer
@@ -216,6 +218,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2054-two-best-non-overlapping-events](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -244,6 +247,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0053-maximum-subarray](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0070-climbing-stairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2054-two-best-non-overlapping-events](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -357,4 +361,8 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2054-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
