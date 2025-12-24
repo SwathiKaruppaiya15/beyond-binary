@@ -1,19 +1,19 @@
-import java.util.Collections;
 class Solution {
     public boolean isPalindrome(String t) {
-        int l=0,r=t.length()-1;
-        while(l<r){
-            while(l<r && !Character.isLetterOrDigit(t.charAt(l))){
-                l++;
-            }
-            while(l<r && !Character.isLetterOrDigit(t.charAt(r))){
-                r--;
-            }
-            if(Character.toLowerCase(t.charAt(l))!=Character.toLowerCase(t.charAt(r))){
-                return false;
-            }
-            l++;
-            r--;
+        int m = t.length();
+        StringBuilder sb = new StringBuilder();
+        for(int i=0;i<m;i++){
+            char ch = t.charAt(i);
+            if(Character.isLetterOrDigit(ch)) sb.append(ch);
+        }
+        String s =  sb.toString().toLowerCase();
+        int i=0,j=s.length()-1;
+        while(i<j){
+            char c1 = s.charAt(i);
+            char c2 = s.charAt(j);
+            if(c1!=c2) return false;
+            i++;
+            j--;
         }
         return true;
     }
