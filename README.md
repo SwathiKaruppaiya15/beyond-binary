@@ -48,6 +48,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0904-fruit-into-baskets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0904-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -194,6 +195,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
 ## Greedy
@@ -222,6 +224,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0047-permutations-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0075-sort-colors) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
+| [0977-squares-of-a-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2054-two-best-non-overlapping-events](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2054-two-best-non-overlapping-events) |
