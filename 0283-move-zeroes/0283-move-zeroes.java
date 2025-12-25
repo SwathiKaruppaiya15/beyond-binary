@@ -4,13 +4,12 @@ class Solution {
         int i=0;
         for(int j = 0; j < nums.length; j++){
             if(nums[j] != 0){
+                int t = nums[i];
                 nums[i] = nums[j];
+                nums[j] = t;
                 i++;
             }
         }
-        while(i < nums.length){
-            nums[i] = 0;
-            i++;
-        }
+        
     }
 }
