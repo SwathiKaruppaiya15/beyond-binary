@@ -4,7 +4,10 @@ class Solution {
         int c=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<grid[i].length;j++){
-                if(grid[i][j]<0) c++;
+                if(grid[i][j]<0){
+                    c+=grid[i].length-j;
+                    break;
+                }
             }
         }
         return c;
