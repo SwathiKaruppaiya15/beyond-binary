@@ -71,6 +71,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -157,6 +158,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2054-two-best-non-overlapping-events](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -353,6 +355,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Counting
 |  |
 | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3583-count-special-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3583-count-special-triplets) |
 ## Brainteaser
 |  |
