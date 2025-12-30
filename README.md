@@ -46,6 +46,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0717-1-bit-and-2-bit-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0724-find-pivot-index) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
+| [0840-magic-squares-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0904-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -102,6 +103,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0560-subarray-sum-equals-k) |
+| [0840-magic-squares-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1590-make-sum-divisible-by-p) |
@@ -175,6 +177,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0204-count-primes) |
+| [0840-magic-squares-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1925-count-square-sum-triples) |
@@ -260,6 +263,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
