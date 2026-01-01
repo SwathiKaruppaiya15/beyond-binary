@@ -90,6 +90,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3606-coupon-code-validator) |
+| [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -120,6 +121,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3531-count-covered-buildings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3606-coupon-code-validator) |
+| [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3625-count-number-of-trapezoids-ii) |
 ## String
@@ -327,6 +329,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
@@ -384,15 +387,18 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
+| [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
+| [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2092-find-all-people-with-secret) |
+| [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -406,4 +412,9 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2402-meeting-rooms-iii) |
+| [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
 <!---LeetCode Topics End-->
