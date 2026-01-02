@@ -51,6 +51,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0904-fruit-into-baskets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0904-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -108,6 +109,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0560-subarray-sum-equals-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0904-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
