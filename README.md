@@ -35,6 +35,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0053-maximum-subarray](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0238-product-of-array-except-self) |
@@ -293,6 +294,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0392-is-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
