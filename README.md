@@ -32,6 +32,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0075-sort-colors) |
@@ -111,6 +112,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0013-roman-to-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
@@ -148,6 +150,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0013-roman-to-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0344-reverse-string) |
@@ -259,6 +262,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0016-3sum-closest](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
