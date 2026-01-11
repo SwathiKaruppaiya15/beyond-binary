@@ -35,6 +35,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0053-maximum-subarray](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0204-count-primes) |
@@ -281,6 +282,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -295,6 +297,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -365,6 +368,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0085-maximal-rectangle) |
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
 |  |
@@ -425,6 +429,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0085-maximal-rectangle) |
 ## Design
 |  |
 | ------- |
