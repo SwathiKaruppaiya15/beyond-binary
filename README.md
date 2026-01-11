@@ -113,6 +113,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0041-first-missing-positive](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0840-magic-squares-in-grid) |
@@ -148,6 +149,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0014-longest-common-prefix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -259,6 +261,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0047-permutations-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
