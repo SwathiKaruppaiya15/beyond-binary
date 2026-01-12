@@ -60,6 +60,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1004-max-consecutive-ones-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -203,6 +204,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0204-count-primes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0204-count-primes) |
 | [0840-magic-squares-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1925-count-square-sum-triples) |
@@ -372,6 +374,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Stack
