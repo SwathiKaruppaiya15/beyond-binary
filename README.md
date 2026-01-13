@@ -48,6 +48,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0303-range-sum-query-immutable](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0303-range-sum-query-immutable) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
 | [0517-super-washing-machines](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0517-super-washing-machines) |
+| [0523-continuous-subarray-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -123,6 +124,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
+| [0523-continuous-subarray-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0904-fruit-into-baskets) |
@@ -212,6 +214,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0523-continuous-subarray-sum) |
 | [0840-magic-squares-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1266-minimum-time-visiting-all-points) |
@@ -351,6 +354,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0209-minimum-size-subarray-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1004-max-consecutive-ones-iii) |
