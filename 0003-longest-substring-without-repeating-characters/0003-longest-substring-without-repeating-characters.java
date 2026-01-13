@@ -1,20 +1,15 @@
-import java.util.Arrays;
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int n = s.length();
-        int l=0,r=0,max=0;
-        int hm[]= new int[256];
-        Arrays.fill(hm,-1);
-        while(r<n){
-            char c = s.charAt(r);
-            if(hm[c]!=-1){
-                if(hm[c]>=l){
-                    l = hm[c]+1;
-                }
+        HashSet<Character> hs = new HashSet<>();
+        int max = 0,l=0;
+        for(int i=0;i<s.length();i++){
+            char ch = s.charAt(i);
+            while(hs.contains(ch)){
+                hs.remove(s.charAt(l));
+                l++;
             }
-            max = Math.max(max,r-l+1);
-            hm[c] = r;
-            r++;
+            hs.add(ch);
+            max = Math.max(max,i-l+1);
         }
         return max;
     }
