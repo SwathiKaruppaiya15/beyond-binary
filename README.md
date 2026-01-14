@@ -97,6 +97,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3454-separate-squares-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -196,6 +197,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3453-separate-squares-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3454-separate-squares-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -480,4 +482,12 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
