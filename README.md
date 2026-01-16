@@ -90,6 +90,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -140,6 +141,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2402-meeting-rooms-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2402-meeting-rooms-iii) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3531-count-covered-buildings) |
@@ -416,6 +418,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1925-count-square-sum-triples](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Monotonic Queue
 |  |
 | ------- |
