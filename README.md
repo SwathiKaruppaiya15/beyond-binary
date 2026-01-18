@@ -73,6 +73,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1590-make-sum-divisible-by-p](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1895-largest-magic-square) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1975-maximum-matrix-sum) |
@@ -319,6 +320,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0085-maximal-rectangle](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -368,6 +370,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1004-max-consecutive-ones-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
