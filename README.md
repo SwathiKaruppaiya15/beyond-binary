@@ -97,6 +97,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3074-apple-redistribution-into-boxes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -361,6 +362,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
