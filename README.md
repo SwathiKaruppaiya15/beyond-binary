@@ -104,6 +104,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3433-count-mentions-per-user](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3454-separate-squares-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -148,6 +149,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3606-coupon-code-validator) |
@@ -317,6 +319,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3433-count-mentions-per-user) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -489,10 +492,12 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2054-two-best-non-overlapping-events](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2402-meeting-rooms-iii) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -507,4 +512,12 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3454-separate-squares-ii) |
+## Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
