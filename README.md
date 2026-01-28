@@ -117,6 +117,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
@@ -335,6 +336,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1975-maximum-matrix-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -357,6 +359,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
 |  |
 | ------- |
