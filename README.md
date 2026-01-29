@@ -94,6 +94,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -181,6 +182,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3606-coupon-code-validator](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
@@ -526,4 +528,12 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
