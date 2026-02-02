@@ -1,75 +1,103 @@
 class Solution {
+    static class SmartWindow {
+        int K;
+        TreeMap<Integer, Integer> low = new TreeMap<>();
+        TreeMap<Integer, Integer> high = new TreeMap<>();
+        long sumLow = 0;
+        int szLow = 0, szHigh = 0;
+        SmartWindow(int k){
+            this.K = k;
+        }
+        int windowSize(){
+            return szLow + szHigh;
+        }
+        private void addMap(TreeMap<Integer, Integer> mp, int x){
+            mp.put(x, mp.getOrDefault(x, 0) + 1);
+        }
+        private boolean removeMap(TreeMap<Integer, Integer> mp, int x){
+            Integer c = mp.get(x);
+            if (c == null) return false;
+            if (c == 1) mp.remove(x);
+            else mp.put(x, c - 1);
+            return true;
+        }
+        private int popLast(TreeMap<Integer, Integer> mp){
+            int x = mp.lastKey();
+            removeMap(mp, x);
+            return x;
+        }
+        private int popFirst(TreeMap<Integer, Integer> mp){
+            int x = mp.firstKey();
+            removeMap(mp, x);
+            return x;
+        }
+        void rebalance(){
+            int need = Math.min(K, windowSize());
+            while(szLow > need){
+                int x = popLast(low);
+                szLow --;
+                sumLow -= x;
+                addMap(high, x);
+                szHigh ++;
+            }
+            while(szLow < need && szHigh > 0){
+                int x = popFirst(high);
+                szHigh --;
+                addMap(low, x);
+                szLow ++;
+                sumLow += x;
+            }
+        }
+        void add(int x){
+            if(szLow == 0){
+                addMap(low, x);
+                szLow ++;
+                sumLow += x;
+            }
+            else{
+                int mxLow = low.lastKey();
+                if(x <= mxLow){
+                    addMap(low, x);
+                    szLow ++;
+                    sumLow += x;
+                }
+                else {
+                    addMap(high, x);
+                    szHigh ++;
+                }
+            }
+            rebalance();
+        }
+        void remove(int x){
+            if(removeMap(low, x)){
+                szLow --;
+                sumLow -= x;
+            }
+            else if(removeMap(high, x)){
+                szHigh --;
+            }
+            rebalance();
+        }
+        long query(){
+            return sumLow;
+        }
+    }
+
     public long minimumCost(int[] nums, int k, int dist) {
-        long base = nums[0];
-        int kSmall = k - 1;
-        if (kSmall <= 0) 
-            return base;
+        int n = nums.length;
+        k -= 1;
+        SmartWindow window = new SmartWindow(k);
 
-        TreeMap<Integer, Integer> small = new TreeMap<>();
-        TreeMap<Integer, Integer> big = new TreeMap<>();
-
-        long[] sumSmall = new long[]{0};
-        int[] cntSmall = new int[]{0};
-
-        Runnable rebalance = () -> {
-            while (cntSmall[0] > kSmall) {
-                int x = small.lastKey();
-                sumSmall[0] -= x;
-                cntSmall[0]--;
-
-                small.merge(x, -1, Integer::sum);
-                if (small.get(x) == 0) 
-                    small.remove(x);
-                big.merge(x, 1, Integer::sum);
-            }
-            while (cntSmall[0] < kSmall && !big.isEmpty()) {
-                int x = big.firstKey();
-                sumSmall[0] += x;
-                cntSmall[0]++;
-                big.merge(x, -1, Integer::sum);
-                if (big.get(x) == 0) 
-                    big.remove(x);
-                small.merge(x, 1, Integer::sum);
-            }
-        };
-
-        int windowSize = dist + 1;
-        for (int i = 1; i <= windowSize && i < nums.length; i++) {
-            small.merge(nums[i], 1, Integer::sum);
-            sumSmall[0] += nums[i];
-            cntSmall[0]++;
+        for(int i = 1; i <= 1 + dist; i ++){
+            window.add(nums[i]);
         }
-        rebalance.run();
+        long ans = window.query();
 
-        long res = base + sumSmall[0];
-
-        for (int l = 1, r = windowSize + 1; r < nums.length; l++, r++) {
-            int out = nums[l];
-            if (small.containsKey(out)) {
-                sumSmall[0] -= out;
-                cntSmall[0]--;
-                small.merge(out, -1, Integer::sum);
-                if (small.get(out) == 0) 
-                    small.remove(out);
-            } else {
-                big.merge(out, -1, Integer::sum);
-                if (big.get(out) == 0) 
-                    big.remove(out);
-            }
-
-            int in = nums[r];
-            if (small.isEmpty() || in <= small.lastKey()) {
-                small.merge(in, 1, Integer::sum);
-                sumSmall[0] += in;
-                cntSmall[0]++;
-            } else {
-                big.merge(in, 1, Integer::sum);
-            }
-
-            rebalance.run();
-            res = Math.min(res, base + sumSmall[0]);
+        for(int i = 2; i + dist < n; i ++){
+            window.remove(nums[i - 1]);
+            window.add(nums[i + dist]);
+            ans = Math.min(ans, window.query());
         }
-
-        return res;
+        return ans + nums[0];
     }
 }
