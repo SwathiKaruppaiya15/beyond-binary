@@ -95,6 +95,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3074-apple-redistribution-into-boxes) |
@@ -315,6 +316,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2402-meeting-rooms-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2402-meeting-rooms-iii) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3433-count-mentions-per-user) |
@@ -445,6 +447,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1995-count-special-quadruplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Monotonic Queue
 |  |
 | ------- |
