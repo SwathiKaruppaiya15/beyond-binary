@@ -96,6 +96,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -187,6 +188,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3606-coupon-code-validator](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
@@ -294,6 +296,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0014-longest-common-prefix) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -365,6 +368,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -541,8 +545,10 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
