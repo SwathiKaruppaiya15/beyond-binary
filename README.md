@@ -128,6 +128,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3640-trionic-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3607-power-grid-maintenance](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3607-power-grid-maintenance) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0053-maximum-subarray) |
+| [3719-longest-balanced-subarray-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -413,6 +416,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -537,6 +541,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
 |  |
 | ------- |
