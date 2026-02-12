@@ -273,6 +273,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0015-3sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
@@ -549,6 +550,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
