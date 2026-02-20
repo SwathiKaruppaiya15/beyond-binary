@@ -188,6 +188,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0344-reverse-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -233,6 +234,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0053-maximum-subarray) |
+| [0761-special-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -319,6 +321,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
