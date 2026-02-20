@@ -283,6 +283,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0125-valid-palindrome](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0392-is-subsequence) |
@@ -455,12 +456,14 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0234-palindrome-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0234-palindrome-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -556,6 +559,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0234-palindrome-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
