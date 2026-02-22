@@ -399,6 +399,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
+| [0868-binary-gap](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Prefix Sum
