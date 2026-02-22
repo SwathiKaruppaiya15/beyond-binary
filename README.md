@@ -559,6 +559,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0234-palindrome-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
