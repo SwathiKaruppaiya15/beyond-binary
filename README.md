@@ -426,6 +426,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Tree
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -433,6 +434,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Depth-First Search
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -544,6 +546,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Binary Tree
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Segment Tree
