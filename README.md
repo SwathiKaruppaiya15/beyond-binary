@@ -191,6 +191,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0761-special-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
@@ -346,6 +347,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -469,6 +471,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0010-regular-expression-matching](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Enumeration
 |  |
 | ------- |
