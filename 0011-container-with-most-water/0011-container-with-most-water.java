@@ -6,11 +6,12 @@ class Solution {
         while(l<r){
             int h = Math.min(a[l],a[r]);
             int b = r-l;
-            max = Math.max(max,h*b);
-            if(a[l]>a[r]){
-                r--;
-            }else if(a[r]>a[l]){
+            int area = h*b;
+            max = Math.max(max,area);
+            if(a[l]<a[r]){
                 l++;
+            }else if(a[l]>a[r]){
+                r--;
             }else{
                 l++;
                 r--;
