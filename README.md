@@ -46,6 +46,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
 | [0517-super-washing-machines](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0517-super-washing-machines) |
@@ -146,6 +147,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0217-contains-duplicate](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0523-continuous-subarray-sum) |
@@ -244,6 +246,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
@@ -333,6 +336,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0217-contains-duplicate](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0349-intersection-of-two-arrays) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0761-special-binary-string) |
@@ -505,6 +509,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0347-top-k-frequent-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3583-count-special-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3583-count-special-triplets) |
 ## Brainteaser
@@ -549,6 +554,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0347-top-k-frequent-elements) |
 | [2054-two-best-non-overlapping-events](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -597,4 +603,12 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
