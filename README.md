@@ -46,6 +46,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
 | [0517-super-washing-machines](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0517-super-washing-machines) |
 | [0523-continuous-subarray-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0523-continuous-subarray-sum) |
@@ -145,6 +146,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0217-contains-duplicate](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0560-subarray-sum-equals-k) |
@@ -224,6 +226,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0004-median-of-two-sorted-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1004-max-consecutive-ones-iii) |
@@ -293,6 +296,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0234-palindrome-linked-list](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -329,6 +333,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0217-contains-duplicate](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0349-intersection-of-two-arrays) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0977-squares-of-a-sorted-array) |
