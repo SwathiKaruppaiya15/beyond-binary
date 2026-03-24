@@ -97,6 +97,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2906-construct-product-matrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -385,6 +386,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1975-maximum-matrix-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2906-construct-product-matrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -444,6 +446,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [1895-largest-magic-square](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2906-construct-product-matrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2906-construct-product-matrix) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
