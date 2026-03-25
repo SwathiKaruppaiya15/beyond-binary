@@ -120,6 +120,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3546-equal-sum-grid-partition-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -388,6 +389,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
@@ -451,6 +453,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3546-equal-sum-grid-partition-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3719-longest-balanced-subarray-i) |
@@ -509,6 +512,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2367-number-of-arithmetic-triplets](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2367-number-of-arithmetic-triplets) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3546-equal-sum-grid-partition-i) |
 ## Monotonic Queue
 |  |
 | ------- |
