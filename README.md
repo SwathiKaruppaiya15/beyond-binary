@@ -113,6 +113,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3379-transformed-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3453-separate-squares-i) |
@@ -392,6 +393,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -416,6 +418,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
