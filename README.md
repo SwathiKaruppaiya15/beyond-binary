@@ -136,6 +136,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3640-trionic-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -245,6 +246,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3453-separate-squares-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3454-separate-squares-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -363,6 +365,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Simulation
 |  |
 | ------- |
@@ -418,6 +421,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Backtracking
 |  |
 | ------- |
