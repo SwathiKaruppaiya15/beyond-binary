@@ -204,6 +204,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0392-is-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0944-delete-columns-to-make-sorted) |
@@ -377,6 +378,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
