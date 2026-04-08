@@ -385,6 +385,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0657-robot-return-to-origin](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2069-walking-robot-simulation-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2069-walking-robot-simulation-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -591,6 +592,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0303-range-sum-query-immutable) |
+| [2069-walking-robot-simulation-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/2069-walking-robot-simulation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
