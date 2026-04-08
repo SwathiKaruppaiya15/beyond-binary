@@ -142,6 +142,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3640-trionic-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -264,6 +265,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0053-maximum-subarray](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0761-special-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -391,6 +393,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [3379-transformed-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3433-count-mentions-per-user) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
 | ------- |
