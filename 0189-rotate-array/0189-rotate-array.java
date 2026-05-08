@@ -1,20 +1,19 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        //right totation
         int n = nums.length;
         k = k%n;
-        reverse(nums,0,n-1);
-        reverse(nums,0,k-1);
-        reverse(nums,k,n-1);
+        rev(nums,0,n-1);
+        rev(nums,0,k-1);
+        rev(nums,k,n-1);
     }
-    public static void reverse(int nums[], int s, int e)
+    public static void rev(int nums[],int i,int j)
     {
-        while(s<=e){
-            int t = nums[s];
-            nums[s] = nums[e];
-            nums[e] = t;
-            s++;
-            e--;
+        while(i<j){
+            int t = nums[i];
+            nums[i] = nums[j];
+            nums[j] = t;
+            i++;
+            j--;
         }
     }
 }
