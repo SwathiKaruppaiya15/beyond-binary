@@ -41,6 +41,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0209-minimum-size-subarray-sum) |
@@ -206,6 +207,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0392-is-subsequence) |
@@ -328,6 +330,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0179-largest-number) |
 | [0517-super-washing-machines](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0517-super-washing-machines) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -353,6 +356,7 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 | [0047-permutations-ii](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0268-missing-number) |
