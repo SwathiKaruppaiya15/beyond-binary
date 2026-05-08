@@ -659,4 +659,8 @@ Swathi Karuppaiya — thesde.swathi1215@gmail.com
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/SwathiKaruppaiya15/beyond-binary/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
